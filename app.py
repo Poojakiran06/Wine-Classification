@@ -50,3 +50,4 @@ def main():
         st.success(response)
 
 if __name__=='__main__':
+    main()
